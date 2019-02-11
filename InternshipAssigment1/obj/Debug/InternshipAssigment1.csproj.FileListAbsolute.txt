@@ -1,0 +1,2 @@
+C:\Users\muyib\source\repos\Specflow\InternshipAssigment1\InternshipAssigment1\obj\Debug\InternshipAssigment1.csprojAssemblyReference.cache
+C:\Users\muyib\source\repos\Specflow\InternshipAssigment1\InternshipAssigment1\obj\Debug\InternshipAssigment1.csproj.CoreCompileInputs.cache
